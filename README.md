@@ -33,7 +33,7 @@ Acredito que **qualidade** e **documentação** andam juntas para construir solu
 
 ### 📘 Últimos Projetos
 
-🔹 [Sistema de Biometria para Autoescolas - DETRAN](https://github.com/ivaneidepmn/biometria-detran)  
+🔹 [Manual Técnico do Sistema de Biometria para Autoescolas - DETRAN](https://github.com/ivaneidepmn/biometria-detran)  
 🔹 [Manual Técnico de Backup com Duplicity, Bacula e CyberBackup](https://github.com/ivaneidepmn/manual-backup)  
 🔹 [POC Cypress - Automação de testes com documentação em Notion e Markdown](https://github.com/ivaneidepmn/teste-cypress-doc)  
 
