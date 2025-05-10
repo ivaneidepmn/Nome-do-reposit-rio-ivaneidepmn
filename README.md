@@ -10,24 +10,24 @@
 
 ### 💡 Sobre mim
 
-Sou Analista de Qualidade de Software com sólida formação em Análise e Desenvolvimento de Sistemas. Atuo com foco em garantir a excelência de aplicações por meio de testes manuais e automatizados, além de aplicar as melhores práticas em documentação técnica.
+Sou **Analista de Qualidade de Software** com sólida formação em **Análise e Desenvolvimento de Sistemas**. Atuo com foco em garantir a excelência de aplicações por meio de testes manuais e automatizados, além de aplicar as melhores práticas em **documentação técnica**.
 
-Fundadora da **IvyFlow Docs**, empresa dedicada à criação, organização e automação de documentos técnicos, colaboro com a transformação digital de equipes e organizações, especialmente em ambientes públicos e corporativos.
+**Fundadora da IvyFlow Docs**, empresa dedicada à criação, organização e automação de documentos técnicos, colaboro com a transformação digital de equipes e organizações, especialmente em ambientes públicos e corporativos.
 
 Tenho experiência com ferramentas como **Cypress**, **Playwright**, **TestRail** e **Notion**, além de utilizar **Git**, **Markdown** e **LaTeX** para desenvolver documentações claras, objetivas e de fácil manutenção.
 
-Acredito que qualidade e documentação andam juntas para construir soluções robustas, seguras e sustentáveis.
+Acredito que **qualidade** e **documentação** andam juntas para construir soluções robustas, seguras e sustentáveis.
 
 ---
 
 ### 🔧 Tecnologias & Ferramentas
 
-- ✅ Cypress, Selenium, Playwright  
-- ✅ Jira, TestRail, Notion  
-- ✅ Markdown, GitHub Pages  
-- ✅ VS Code + WSL  
-- ✅ Python (básico), Shell Script (automação de rotinas)  
-- ✅ Markdown + LaTeX para documentação científica  
+- ✅ **Cypress**, **Selenium**, **Playwright**  
+- ✅ **Jira**, **TestRail**, **Notion**  
+- ✅ **Markdown**, **GitHub Pages**  
+- ✅ **VS Code + WSL**  
+- ✅ **Python** (básico), **Shell Script** (automação de rotinas)  
+- ✅ **Markdown + LaTeX** para documentação científica  
 
 ---
 
@@ -47,8 +47,6 @@ Acredito que qualidade e documentação andam juntas para construir soluções r
 
 ### 📫 Contato
 
-- 📧 Email: ivaneidepmn@gmail.com  
+- 📧 Email: [ivaneidepmn@gmail.com](mailto:ivaneidepmn@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/ivaneidepmn](https://linkedin.com/in/ivaneidepmn)  
 - 📱 Telefone: (91) 98485-5912  
-
----
